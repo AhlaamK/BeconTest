@@ -1,8 +1,9 @@
 # BeconTest
 A simple android app to hit the Becon test API and show them in view pager based on image or video.
 ## Approach
-1. Android Databinding in kotlin
-2. Retrofit API call
+1. Programming in Kotlin
+2. Android Databinding in kotlin
+3. Retrofit API call
 ## Additional Activities
 ### Steps to Run Project
 1.  Clone the project from GitHub repository into android studio.
