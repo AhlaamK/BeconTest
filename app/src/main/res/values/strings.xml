@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BeconAppTest</string>
+    <string name="expand">See More</string>
+    <string name="collapse">See Less</string>
+</resources>
