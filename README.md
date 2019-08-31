@@ -10,4 +10,4 @@ A simple android app to hit the Becon test API and show them in view pager based
 3.  Goto BUild > Rebuild project, will build the project.
 4.  On successfull build, Run the project on the emulator/ android device by Run >Run ( Or Alt + Shift + f10 )
 ## Demo
-![BeconTest Demo](ezgif.com-optimize.gif)
+![BeconTest Demo](ezgif.com-video-to-gif.gif)
